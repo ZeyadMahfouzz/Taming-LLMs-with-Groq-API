@@ -1,6 +1,3 @@
-openai
-pandas
 requests
-numpy
 python-dotenv
 groq
