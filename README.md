@@ -34,7 +34,7 @@ GROQ_API_KEY=your_api_key_here
 ### Running the Model
 Execute the main script:
 ```bash
-python taming_llm.py
+python -m taming_llm
 ```
 ### Example Classification
 ```python
